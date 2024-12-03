@@ -16,3 +16,6 @@
   
 - **아두이노 반응**
   - 명령에따라 LED를 켜거나 모터를 작동시킴
+
+## 포스터
+![아두이노](https://github.com/user-attachments/assets/68df3d07-6c02-4dad-abcc-ecd4127113ba)
